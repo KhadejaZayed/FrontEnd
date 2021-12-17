@@ -1,0 +1,52 @@
+/*start main rules*/
+.cis {
+  text-align: center;
+}
+
+.main-card {
+  margin: auto;
+  width: 50%;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width:25%;
+    line-height: normal;
+    float: left;
+    padding: 5px;
+    margin:0px 20px 0px 20px;
+    
+  
+}
+.first {
+    background-color: forestgreen;
+    color: aliceblue;
+    text-align: center;
+    padding: 50px;
+}
+.second {
+    background-color: darkgreen;
+    color: aliceblue;
+    text-align: center;
+    padding: 50px;
+    
+}
+.third {
+    background-color: aqua;
+    color: aliceblue;
+    text-align: center;
+    padding: 50px;
+ }
+.y{
+    font-size:30px;
+    text-align: center;
+}
+.w{
+    font-size:30px;
+    text-align: center;
+}
+.t{
+    font-size:30px;
+    text-align: center;
+
+}
