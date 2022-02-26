@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Khadeja Zayed</title>
+        <meta name="description" content="This Is Description For My First Page"/>
+    </head>
+    <body>
+        <table width="100%" border="1">
+            <caption>Members Data</caption>
+            <thead>
+                <tr>
+                    <th>Group</th>
+                    <th>Avatar</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Character</th>
+                    <th>Profile</th>
+                </tr>
+            </thead>
+            <tbody>    
+                <tr>
+                    <td rowspan="4">A</td>
+                    <td rowspan="2"><img src="https://via.placeholder.com/40" alt=""></td>
+                    <td rowspan="2">x<br>x2</td>
+                    <td>x@</td>
+                    <td rowspan="2">&copy;</td>
+                    <td rowspan="2"><a href="htttp//www.google.com" title="Go to Google" target="_blank">Google</a></td>
+                </tr>
+
+                <tr><td>x2@</td></tr>
+
+                <tr>
+                    <td rowspan="2"><img src="https://via.placeholder.com/40" alt=""></td>
+                    <td rowspan="2">y<br>y2</td>
+                    <td rowspan="2">y@</td>
+                    <td rowspan="2">&trade;</td>
+                    <td rowspan="2"><a href="htttp//www.google.com" title="Go to Google" target="_blank">Google</a></td>
+                </tr>
+                <tr></tr>
+                <tr>
+                    <td>B</td>
+                    <td><img src="https://via.placeholder.com/40" alt=""></td>
+                    <td>z<br>z2</td>
+                    <td>z@</td>
+                    <td>&reg;</td>
+                    <td><a href="htttp//www.google.com" title="Go to Google" target="_blank">Google</a></td>
+                </tr>
+            </tbody>
+            <tfooter>
+                <tr>
+                <td colspan="5">Total</td>
+                <td>3</td>
+                </tr>
+            </tfooter>
+        </table>
+    </body>
+</html>
