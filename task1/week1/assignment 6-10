@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>First Page</title>
+        <meta name="description" content="This Is Description For My First Page"/>
+        <style></style>
+        <script></script>
+        <link rel="stylesheet" href=""> 
+    </head>
+    <body>
+    <h1>Store Name</h1>
+        <p>Description of the store</p>
+        <h2>department 1</h2>
+            <h3>Product 1</h3>
+                <p>Its content</p> <hr>
+            <h3>Product 2</h3>
+                <p>Its content</p> <hr>
+            <h3>Product 3</h3>
+                <p>Its content</p> <hr>
+        <h2>department 2</h2>
+            <h3>Product 1</h3>
+                <p>Its content</p> <hr>
+            <h3>Product 2</h3>
+                <p>Its content</p> <hr>
+            <h3>Product 3</h3>
+                <p>Its content</p> <hr>
+    </body>
+</html>
