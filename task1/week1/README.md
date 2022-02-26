@@ -19,9 +19,9 @@
 ## Assignment 6-10
 ### التكليف 01
 ما هو ال السطر الذي يتم كتابته لتخبر المتصفح أن إصدار اللغة المستخدم في إنشاء الصفحة هو HTML5 ؟<br /> 
-  <!DOCTYPE html>
+  "<!DOCTYPE html>"
 ما هو ال Rendering Mode الذي سوف يتبعه المتصفح إذا لم تكتب السطر الخاص بتحديد الإصدار ؟ <br />
-  quirks mode!!!!!!!!1
+  quirks mode
 هل من السليم إستخدام أكثر من h1 في الصفحة جاوب بنعم أو لا ؟ <br />
   لا
 لديك عنصر يحتوي على بيانات المنتج وعنوان المنتج مكتوب ب h3 هل من المنطقي وضع عنوان h2 داخل نفس المنتج أم لا؟ <br />
@@ -30,34 +30,12 @@
   لحجم العناوبن اللي بتتعمل بولد من 1الكبير ل6لأصغر
 ### التكليف 02
 هل هناك إختلاف بين هذه العناصر عندما يتم إظهارهم في الصفحة أم لا ؟ <br /> 
-<p class="element">Welcome To The New World</p> <br /> 
-<p class='element'>Welcome To The New World</p> <br /> 
-<p class=element>Welcome To The New World</p> <br /> 
   لا
 ### التكليف 03
 هل هناك إختلاف بين هذه العناصر عندما يتم إظهارهم في الصفحة أم لا ؟ <br /> 
-<p class=element hidden>Welcome To The New World</p> <br /> 
-<p class="element" hidden>Welcome To The New World</p> <br /> 
   لا
 ### التكليف 04
-هل هذه العناصر سوف تظهر كلها بنفس الشكل أم لا ؟ <br /> 
-<p>Hello World</p> <br />
-
-<p> <br /> 
-Hello World <br /> 
-</p> <br /> 
-
-<p> <br /> 
-Hello <br /> 
-World <br /> 
-</p> <br /> 
-
-<p> <br /> 
-Hello <br /> 
-
-<br /> 
-World <br /> 
-</p> <br /> 
+هل هذه العناصر سوف تظهر كلها بنفس الشكل أم لا ؟ <br />  
   ستظهر كلها بنفس الشكل
 ### التكليف 05
 جانب كل Attribute من الموجودين في المثال قم بكتابة هل هو من ال Global Attributes أم لا ؟ <br /> 
