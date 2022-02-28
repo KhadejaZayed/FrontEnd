@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Khadeja Zayed</title>
+        <meta name="description" content="This Is Description For My First Page"/>
+    </head>
+    <body>
+        استمع لسورة الفاتحة بصوت القاريء الشيخ محمد صديق المنشاوي <br>
+        <audio controls autoplay loop>
+            <source src="001.mp3" type="audio/mpeg">
+            <source src="001.wav" type="audio/vnd.wav">
+            <source src="001.ram" type="audio/vnd.rn-realaudio	">
+            the browser does not support this audio tag
+        </audio>
+    </body>
+</html>
