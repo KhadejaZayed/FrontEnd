@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Khadeja Zayed</title>
+        <meta name="description" content="This Is Description For My First Page"/>
+    </head>
+    <body>
+        <header>
+            <h1>Just A Page</h1>
+            <a href="www.Google.com">Google</a>
+            <a href="www.Google.com">Google</a>
+            <a href="www.Google.com">Google</a>
+            <a href="www.Google.com">Google</a>
+            <a href="www.Google.com">Google</a>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="www.Google.com">Google</a></li>
+                <li><a href="www.Google.com">Google</a></li>
+                <li><a href="www.Google.com">Google</a></li>
+                <li><a href="www.Google.com">Google</a></li>
+                <li><a href="www.Google.com">Google</a></li>
+                <li><a href="www.Google.com">Google</a></li>
+            </ul>
+        </nav>
+        <section>
+            <article>
+                <header><h3>Lorem</h3></header>
+                <section>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus ipsam cumque quisquam quas quibusdam iure eius deserunt soluta tenetur fugiat similique voluptatibus dolorem autem itaque, blanditiis fuga sit facilis debitis.</p>
+                    <figure><img src="https://via.placeholder.com/150"alt=""></figure>
+                    <figcaption><a href="www.Google.com">أقرأ المزيد</a></figcaption>
+                </section>
+            </article>
+            <hr> 
+            <article>
+                <header><h3>Lorem</h3></header>
+                <section>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus ipsam cumque quisquam quas quibusdam iure eius deserunt soluta tenetur fugiat similique voluptatibus dolorem autem itaque, blanditiis fuga sit facilis debitis.</p>
+                    <figure><img src="https://via.placeholder.com/150"alt=""></figure>
+                    <figcaption><a href="www.Google.com">أقرأ المزيد</a></figcaption>
+                </section>
+            </article>
+            <hr> 
+            <article>
+                <header><h3>Lorem</h3></header>
+                <section>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus ipsam cumque quisquam quas quibusdam iure eius deserunt soluta tenetur fugiat similique voluptatibus dolorem autem itaque, blanditiis fuga sit facilis debitis.</p>
+                    <figure><img src="https://via.placeholder.com/150"alt=""></figure>
+                    <figcaption><a href="www.Google.com">أقرأ المزيد</a></figcaption>
+                </section>
+            </article> 
+            <hr>
+        </section>
+        <aside>
+            <header><h3>Categories</h3></header>
+            <ul>
+                <li>a</li>
+                <li>b</li>
+                <li>c</li>
+                <li>d</li>
+                <li>e</li>
+            </ul>
+        </aside>
+        <footer>
+            <small> &copy; Copyright 2021</small>
+        </footer>
+    </body>
+</html>
