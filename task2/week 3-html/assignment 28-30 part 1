@@ -6,7 +6,7 @@
         <meta name="description" content="This Is Description For My First Page"/>
     </head>
     <body>
-        <form method="get"> <!-- ناقص طريقة انه يبع البيانات لنفسه-->
+        <form method="get">
             <div>
                 <label>Username</label> <br>
                 <input 
