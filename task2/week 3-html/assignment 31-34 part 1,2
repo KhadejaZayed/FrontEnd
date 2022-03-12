@@ -6,7 +6,7 @@
       <meta name="description" content="This Is Description For My First Page" />
   </head>
   <body>
-      <form action="newtab.php">
+      <form target="_blank">
           <div>
               <label>Search</label> <br>
               <input type="search" placeholder="Enter A Search Word" autofocus>
