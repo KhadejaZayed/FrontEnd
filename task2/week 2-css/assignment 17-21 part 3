@@ -1,0 +1,11 @@
+.first, .second, .third {
+    background-color: #eee;
+    width: 400px;
+    padding: 10px;
+}
+
+.third{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
