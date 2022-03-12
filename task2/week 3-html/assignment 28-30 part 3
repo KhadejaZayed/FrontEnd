@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="UTF-8" />
+      <title>Khadeja Zayed</title>
+      <meta name="description" content="This Is Description For My First Page" />
+  </head>
+
+  <body>
+      <form>
+          <div>
+              <label>Choose language: </label>
+              <select>
+                  <optgroup label="PHP">
+                      <option selected>V5.0</option>
+                      <option>V6.0</option>
+                      <option>V7.0</option>
+                  </optgroup>
+                  <optgroup label="Python">
+                      <option>V2.0</option>
+                      <option>V3.0</option>
+                      <option>V3.9</option>
+                  </optgroup>
+              </select>
+          </div>
+          <hr>
+          <div>
+              <textarea name="brief" placeholder="Write Here Why You Want To Learn Programming" cols="100"
+                  rows="40"></textarea>
+          </div> <br>
+          <div>
+              <input type="reset" value="Empty">
+              <input type="submit" value="Send">
+          </div>
+      </form>
+  </body>
+</html>
