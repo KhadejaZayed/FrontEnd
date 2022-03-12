@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="UTF-8" />
+      <title>Khadeja Zayed</title>
+      <meta name="description" content="This Is Description For My First Page" />
+  </head>
+  <body>
+      <form action="newtab.php">
+          <div>
+              <label>Search</label> <br>
+              <input type="search" placeholder="Enter A Search Word" autofocus>
+          </div>
+          <hr>
+          <div>
+              <label>Upload</label> <br>
+              <input type="file">
+          </div>
+          <hr>
+          <div>
+              <label>URL</label> <br>
+              <input type="url">
+          </div>
+          <br>
+          <div>
+              <label>Date</label>
+              <input type="date" name="date" value="25/10/1982">
+          </div>
+          <br>
+          <div>
+              <label>Month</label>
+              <input type="month" name="month" value="October 1982">
+          </div>
+          <br>
+
+          <input type="reset" value="Empty">
+          <input type="submit" value="Save">
+      </form>
+  </body>
+</html>
