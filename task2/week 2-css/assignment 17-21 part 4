@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <!-- <link rel="stylesheet" href="1.css"/> -->
+    <style>
+    a {
+    border-bottom: 2px solid rgb(4, 78, 60);
+    margin:50% ;
+    text-align: center;
+    background-color: rgb(27, 199, 162);
+    text-transform: capitalize;
+    color:white;
+    padding: 10px;
+    text-decoration: none;
+  }
+  </style>
+  </head>
+  <body>
+    <a href="#">Google</a>
+</body> 
+</html>
