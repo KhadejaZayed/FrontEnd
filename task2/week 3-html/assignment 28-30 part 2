@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Khadeja Zayed</title>
+        <meta name="description" content="This Is Description For My First Page" />
+    </head>
+
+    <body>
+        <form method="get">
+            <div>
+                <label>Username</label> <br>
+                <input type="text" name="user" required autofocus minlength="5" maxlength="20">
+            </div>
+            <hr>
+            <div>
+                <label>Email</label> <br>
+                <input type="email" name="email" value="o@o.com" readonly>
+            </div> <br>
+            <input type="hidden" name="Token" value="b92f1fc2fce391ad7af633723afd3055">
+            <div>
+                <input type="reset" value="Empty">
+                <input type="submit" value="Send">
+            </div>
+            <hr>
+
+            <div>
+                <input id="pro" type="checkbox" name="skills" value="Problem Solving" checked>
+                <label for="pro">Problem Solving</label>
+            </div> <br>
+            <div>
+                <input id="log" type="checkbox" name="skills" value="Logical Thinking">
+                <label for="log">Logical Thinking</label>
+            </div> <br>
+            <div>
+                <input id="adv" type="checkbox" name="skills" value="Advanced Search">
+                <label for="adv">Advanced Search</label>
+            </div> <br>
+            <div>
+                <input id="ana" type="checkbox" name="skills" value="Analysis">
+                <label for="ana">Analysis</label>
+            </div> <br>
+            <div>
+                <input id="pla" type="checkbox" name="skills" value="Planning">
+                <label for="pla">Planning</label>
+            </div>
+            <hr>
+
+            <div>
+                <input id="fro" type="radio" name="job" value="Front-End Developer" checked>
+                <label for="fro">Front-End Developer</label>
+            </div> <br>
+            <div>
+                <input id="bac" type="radio" name="job" value="Back-End Developer">
+                <label for="bac">Back-End Developer</label>
+            </div> <br>
+            <div>
+                <input id="bus" type="radio" name="job" value="Business Analyst">
+                <label for="bus">Business Analyst</label>
+            </div> <br>
+            <div>
+                <input id="proj" type="radio" name="job" value="Project Manager">
+                <label for="proj">Project Manager</label>
+            </div> <br>
+            <div>
+                <input id="scr" type="radio" name="job" value="Scrum Master">
+                <label for="scr">Scrum Master</label>
+            </div>
+        </form>
+    </body>
+</html>
