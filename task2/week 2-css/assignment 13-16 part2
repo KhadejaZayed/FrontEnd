@@ -1,0 +1,9 @@
+.first, .second, .third, .fourth {
+    padding: 10px;
+    color: aliceblue;
+    background-color: brown;
+    width: fit-content;
+    max-width: 400px;
+    max-height: 50px;
+    overflow: hidden;
+}
