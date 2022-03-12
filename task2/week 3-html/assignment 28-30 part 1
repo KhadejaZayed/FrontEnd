@@ -20,11 +20,8 @@
             <div>
                 <label>Email</label> <br>
                 <input type="email" name="email" value="o@o.com" readonly>
-            </div> <hr>
-            <div>
-                <label>Token</label> <br>
+            </div> <br>
                 <input type="hidden" name="Token" value="b92f1fc2fce391ad7af633723afd3055">
-            </div> 
             <div>
                 <input type="reset" value="Empty">
                 <input type="submit" value="Send">
